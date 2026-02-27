@@ -79,7 +79,7 @@ http://127.0.0.1:8000
 Admin
 email: admin@example.com
 password: password
-
+```
 15. Jika terjadi error
 ```
 php artisan optimize:clear
