@@ -86,4 +86,3 @@ php artisan optimize:clear
 composer dump-autoload
 ```
 
-MIT License
